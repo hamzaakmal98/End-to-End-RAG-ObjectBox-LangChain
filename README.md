@@ -3,8 +3,6 @@
 
 ![Streamlit Web App Interface](./images/RAG%20app%20UI.png)
 
-## DEMO
- - You can check the project live [here](https://8512-01hwj8ynshjz7spkr595x77ec2.cloudspaces.litng.ai/)
 
 ## Description
 - This project showcase the implementation of an advanced RAG system that uses Objectbox vectordatabse and Groq's LLAM3 model as an llm to retrieve information from different PDF documents.
